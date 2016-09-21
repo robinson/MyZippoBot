@@ -9,8 +9,8 @@ namespace MyZippo
     internal static class Responses
     {
         public const string Features =
-            "* Answer questions about the author of this blog: Try 'Who is Ankit'\n\n"
-            + "* Search this blog for posts on a particular topic: Try 'What are the artciles on chat bot'\n\n";
+            "* Answer questions about the author of this blog: Try 'Who is Hieu'\n\n"
+            + "* Search this blog for posts on a particular topic: Try 'What are the article on chat bot'\n\n";
 
         public const string WelcomeMessage =
             "Hi there\n\n"
