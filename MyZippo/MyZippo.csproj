@@ -165,7 +165,7 @@
     <Compile Include="App_Start\WebApiConfig.cs" />
     <Compile Include="Controllers\MessagesController.cs" />
     <Compile Include="Dialogs\GreetingsDialog.cs" />
-    <Compile Include="Dialogs\MeBotLuisDialog.cs" />
+    <Compile Include="Dialogs\MyZippoLuisDialog.cs" />
     <Compile Include="Entities\Post.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
